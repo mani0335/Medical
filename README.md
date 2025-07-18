@@ -1,4 +1,5 @@
 🌐 Highly Available Medical Website using Azure VM Scale Sets 🚑
+
 A robust and responsive medical website deployed on Microsoft Azure, designed to maintain high availability and handle fluctuating traffic loads with Virtual Machine Scale Sets (VMSS) and Azure Load Balancer. This project demonstrates how cloud infrastructure can be leveraged to ensure uninterrupted access to critical healthcare information and services.
 
 🚀 Project Overview
